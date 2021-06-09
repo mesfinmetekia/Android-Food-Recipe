@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Traditional Food Recipe Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="copyright">© 2020 triOS College, Mesfin Metekia. All rights reserved.</string>
+    <string name="about">This is a trial app about most known Ethiopian traditional food recipe for the purpose fulfilling a project work for Android Studio course. \nIn this recipe application there has been different pages for different recipes. These are: Kitfo, Doro, Shiro, Salad and Peas</string>
+    <string name="Kitfo">Serving for 5 people \n\n 3 pound freshly grounded without fat \n 1 teaspoon Mitmita \n 1 teaspoon korerima \n 1 teaspoon salt (as needed) \n 1/4 cup of Neter kibe (Seasoned butter)</string>
+    <string name="shiro">Shiro is a delicious chickpea powder-based dish (sometimes also including lentils and broad beans), slow-cooked with Ethiopia\'s popular — and spicy — red berbere sauce. There are several kinds of shiro to enjoy, from the soupy thin shiro wot to the thick and glob-like (but still delectable) shiro tegamino. Try it out with this recipe.\n 1 onion, chopped\n1/2+ cup oil\n2 1/2 tbsp tomato paste\n2-3 c water\n3/4 c mit’in shiro\nminced ginger and garlic\nsalt, to tast</string>
+    <string name="lentil">Serving for 5 people\n3/4 cup (185 mL) canola oil\n1-1/2 medium yellow onions, finely chopped\n1/2 cup (125 mL) berbere spice blend, or to taste\n1 tbsp (15 mL) puréed fresh, peeled ginger\n2 tsp (10 mL) puréed fresh garlic\n1 cup (250 mL) dried red lentils, washed\n3 cups (750 mL) water + more if needed\n1/2 tsp (2 mL) fine sea salt, or to taste</string>
+    <string name="peas">Serving for 5 people\ncup (250 mL) dried yellow split peas\n1/4 cup (60 mL) canola oil\n
+                        1-1/2 medium yellow onions, finely minced\n1-1/2 tbsp (22 mL) each: fresh garlic,ginger\n
+                        1/2 tsp (2 mL) turmeric\n3 cups (750 mL) water + more if needed\n3/4 tsp (4 mL) fine sea salt, or to taste</string>
+</resources>
